@@ -7,14 +7,14 @@ Hi Odoo team! Below are some of my observations on the mockup provided.
 ## What I Find Good
 
 ### Strong Hero Section with a Clear Call-to-action
-- Visual hierarchy is clear: bold headline, supporting description, and a CTA button. This guides the user's eye naturally. The credit card mockup also adds visual interest so its not all text.
+- Visual hierarchy is clear: bold headline, supporting description, and a CTA button. The credit card mockup also adds visual interest so its not all text.
 
 ### Effective Content Flow
 - I like the alternating layout across the Tools, Features, and Technology section. It makes it feel like there is a flow that keeps the user scrolling.
 - The stacked cards on the tools and technology features also give a good depth.
 
 ### Emphasis on Service/Product Credibility
-- The "Trusted by" and Awards section reinforces credibility towards the product. Although their purpose is similar, having them at different points makes sense: the first builds initial trust then the other supports it after scrolling through the feature/tools/technology section.
+- The "Trusted by" in the Hero and Awards section reinforces credibility towards the product. Although their purpose is similar, having them at different points makes sense: the first builds initial trust then the other supports it after scrolling through the feature/tools/technology section.
 
 ### Diagonal Clip-paths
 - The angled edges in the hero, awards, and footer give the page a dynamic look so it does not look too generic.
@@ -49,21 +49,21 @@ Hi Odoo team! Below are some of my observations on the mockup provided.
 ## Minor Changes I Made
 
 ### 1. Image Overlay for Play Video Visibility
-I added a subtle dark overlay to section images so the play button stands out against the content instead of blending in.
+The mockup's play video button blends into the photo, making it easy to miss. I modified this by adding a dark overlay to the image and centered the play button so the video content could easily be spotted.  
 
-![Before and after](notes/change1.jpg)
+![Before and after](Notes/change1.jpg)
 
 ### 2. Button Visibility
-I added an outlined button to the "I want to start a new project" section so users will not overlook the button.
+Similar to the first change, I added an outline to the learn more button under the "I want to start a new project" section so users will not overlook the button.
 
-![Before and after](notes/change3.jpg)
+![Before and after](Notes/change4.jpg)
 
 ### 3. Card Shadows for Depth
-I included box shadows to cards across the page to create a sense of elevation and help distinguish them from the background.
+The mockup's cards felt flat against the background.  I added box shadows to cards across the page to create a sense of elevation.
 
-![Before and after](notes/change2.jpg)
+![Before and after](Notes/change2.jpg)
 
 ### 4. Filled Star Ratings
-I changed the outlined stars to filled stars. Using solid icons would communicate the rating immediately. 
+I changed the outlined stars to filled stars because using solid icons would communicate the rating immediately. When glancing at the page with the mockup's outlined stars, it was difficult to tell the rating at a quick glance. 
 
-![Before and after](notes/change3.jpg)
+![Before and after](Notes/change3.jpg)
