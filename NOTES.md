@@ -28,6 +28,7 @@ Hi Odoo team! Below are some of my observations on the mockup provided.
 
 ### "I Want to Start a New Project" Section Can Easily Be Overlooked
 - This section does not have enough space and it feels cramped and empty. The "Learn more" button is also styled like normal text which can confuse users into thinking it's not a button.
+- To improve this, I would consider adding a different background color or increasing the heading size.
 
 ### Play Video Button Blends Into the Images
 - The white button blends into the content. Adding a semi-transparent dark overlay, changing the button's color/border, or changing the button's position could make the video content more obvious.
