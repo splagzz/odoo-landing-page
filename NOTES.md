@@ -51,19 +51,19 @@ Hi Odoo team! Below are some of my observations on the mockup provided.
 ### 1. Image Overlay for Play Video Visibility
 I added a subtle dark overlay to section images so the play button stands out against the content instead of blending in.
 
-![Before and after](notes/change1.png)
+![Before and after](notes/change1.jpg)
 
 ### 2. Button Visibility
 I added an outlined button to the "I want to start a new project" section so users will not overlook the button.
 
-![Before and after](notes/change3.png)
+![Before and after](notes/change3.jpg)
 
 ### 3. Card Shadows for Depth
 I included box shadows to cards across the page to create a sense of elevation and help distinguish them from the background.
 
-![Before and after](notes/change2.png)
+![Before and after](notes/change2.jpg)
 
 ### 4. Filled Star Ratings
 I changed the outlined stars to filled stars. Using solid icons would communicate the rating immediately. 
 
-![Before and after](notes/change3.png)
+![Before and after](notes/change3.jpg)
