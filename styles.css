@@ -146,6 +146,14 @@ body {
     background-color: #f0f0f0;
 }
 
+/* === SECTION CONNECTORS === */
+.section-connector {
+    width: 350px;
+    margin: -40px auto;
+    position: relative;
+    z-index: -1;
+}
+
 /* === HERO  === */
 .hero-section{
     background-color:var(--primary-blue);
@@ -393,13 +401,20 @@ body {
 #awards-section .row .col:nth-child(odd){
     margin-top: 10px;
 }
-.award-card{
-    max-width:250px;
+
+.award-card {
+    background: var(--primary-white);
+    max-width: 200px;
+    padding: 24px 16px;
     margin: 0 auto;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
     border-radius: 10px;
     border: 1px solid var(--primary-outline-grey);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .award-card:hover{
@@ -477,4 +492,10 @@ body {
 .footer-text{
     color:var(--primary-link-purple);
     font-size: 12px;
+}
+
+@media (min-width: 1400px) {
+    .award-card {
+        min-height: 200px;
+    }
 }
